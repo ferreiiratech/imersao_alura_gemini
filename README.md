@@ -14,7 +14,7 @@ O Dicionário Tech é um projeto que tem como objetivo auxiliar estudantes, prof
 * Interface intuitiva e fácil de usar.
 
 ## Demonstração
-![imagem](image.png)
+![imagem](assets/image.png)
 
 ## Como Usar
 1. **Clone o repositório:**
